@@ -16,3 +16,7 @@
 - [0xb4390019Bff98aA112eAf93A91Ef5d9653e24C7a](https://arbiscan.io/address/0xb4390019Bff98aA112eAf93A91Ef5d9653e24C7a)
 - [0x98033EFB9125333f4F6353BcC5e2D0Ae06b436a2](https://arbiscan.io/address/0x98033EFB9125333f4F6353BcC5e2D0Ae06b436a2)
 - [0xc25e207B1F2fA74D48d376F4377839238A14Ee55](https://arbiscan.io/address/0xc25e207B1F2fA74D48d376F4377839238A14Ee55)
+
+## Governance links
+
+Governance forum: [Umami DAO](https://commonwealth.im/umami-dao/overview)
